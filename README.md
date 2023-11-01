@@ -15,7 +15,7 @@
 </td><td valign="top">
 
 ### Hobby game dev skills
-<a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" /></a>
+<a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32" /></a>
 
 </td></tr></table>
@@ -23,14 +23,14 @@
 
 #### All the stuff I know
 
-<a href="https://apple.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="32" height="32" /></a>
+<a href="https://apple.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32" /></a>
 <a href="https://github.com/atom/atom"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="32" height="32" /></a>
 <a href="https://babeljs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="32" height="32" /></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" height="32" /></a>
 <a href="https://bitbucket.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="32" height="32" /></a>
 <a href="https://chrome.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" /></a>
-<a href="https://codepen.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="32" height="32" /></a>
+<a href="https://codepen.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://cplusplus.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" /></a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" /></a>
@@ -38,11 +38,11 @@
 <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" /></a>
 <a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="32" height="32" /></a>
 <a href="https://eslint.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="32" height="32" /></a>
-<a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" /></a>
+<a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32" height="32" /></a>
 <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" height="32" /></a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" /></a>
-<a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" /></a>
+<a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" style="filter: invert(0.95)" /></a>
 <a href="https://gitlab.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" /></a>
 <a href="https://google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" /></a>
 <a href="https://graphql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" height="32" /></a>
@@ -56,11 +56,11 @@
 <a href="https://lesscss.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" width="32" height="32" /></a>
 <a href="https://lua.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="32" height="32" /></a>
 <a href="https://material-ui.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="32" height="32" /></a>
-<a href="https://daringfireball.net/projects/markdown/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="32" height="32" /></a>
+<a href="https://daringfireball.net/projects/markdown/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://mochajs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="32" height="32" /></a>
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" /></a>
 <a href="https://mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" /></a>
-<a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" /></a>
+<a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" /></a>
 <a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32" /></a>
 <a href="https://r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="32" height="32" /></a>
@@ -69,12 +69,12 @@
 <a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32" height="32" /></a>
 <a href="https://sketch.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="32" height="32" /></a>
 <a href="https://slack.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="32" height="32" /></a>
-<a href="https://en.wikipedia.org/wiki/Secure_Shell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="32" height="32" /></a>
+<a href="https://en.wikipedia.org/wiki/Secure_Shell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://storybook.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" width="32" height="32" /></a>
-<a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="32" height="32" /></a>
+<a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" /></a>
 <a href="https://trello.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="32" height="32" /></a>
 <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" /></a>
-<a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" /></a>
+<a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" style="filter: invert(0.85)" /></a>
 <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="32" height="32" /></a>
 <a href="https://jetbrains.com/webstorm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="32" height="32" /></a>
 <a href="https://yarnpkg.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="32" height="32" /></a>
