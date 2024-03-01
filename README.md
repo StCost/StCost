@@ -37,7 +37,7 @@
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" height="32" /></a>
 <a href="https://bitbucket.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="32" height="32" /></a>
 <a href="https://chrome.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="32" height="32" /></a>
-<a href="https://codepen.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="32" height="32" /></a>
+<a href="https://codepen.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" width="32" height="32" /></a>
 <a href="https://cplusplus.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" /></a>
 <a href="https://www.chartjs.org"><img src="https://cdn.simpleicons.org/chart.js" width="32" height="32" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32" /></a>
@@ -107,7 +107,7 @@
 <a href="https://stripe.com"><img src="https://cdn.simpleicons.org/stripe" width="32" height="32" /></a>
 <a href="https://steamcommunity.com"><img src="https://cdn.simpleicons.org/steam" width="32" height="32" /></a>
 <a href="https://steamdeck.com"><img src="https://cdn.simpleicons.org/steamdeck" width="32" height="32" /></a>
-<a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" /></a>
+<a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" /></a>
 <a href="https://trello.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="32" height="32" /></a>
 <a href="https://typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" /></a>
 <a href="https://teamspeak.com"><img src="https://cdn.simpleicons.org/teamspeak" width="32" height="32" /></a>
