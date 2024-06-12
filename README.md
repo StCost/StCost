@@ -27,6 +27,11 @@
 <a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32" /></a>
 
 </td></tr></table>
+
+[Check out my previous Web Developer Experience](https://dreaming-blog.vercel.app/tags/portfolio)
+
+[Or my pet projects I make](https://dreaming-blog.vercel.app/projects)
+
 <table><tr align=""><td>
 
 #### All the stuff I know
