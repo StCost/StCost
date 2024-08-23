@@ -94,7 +94,7 @@
 <a href="https://mochajs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="32" height="32" /></a>
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" /></a>
 <a href="https://mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" /></a>
-<a href="https://minecraft.net/"><img src="https://cdn.simpleicons.org/minecraft" width="32" height="32" /></a>
+<a href="https://minecraft.net/"><img src="https://cdn.simpleicons.org/minetest" width="32" height="32" /></a>
 <a href="https://mobx.js.org"><img src="https://cdn.simpleicons.org/mobx" width="32" height="32" /></a>
 <a href="https://mongoosejs.com"><img src="https://cdn.simpleicons.org/mongoose" width="32" height="32" /></a>
 <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" /></a>
