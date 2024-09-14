@@ -1,8 +1,7 @@
       Dreaming about artificial worlds since first days in front of a computer.
       Learning to make them real since 2017
 
-- look at my dream-game I'm making: [[COLLAPSE MACHINE](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent)]
-
+- look at my dream-game I'm making: [<img src="https://img.shields.io/static/v1?label=COLLAPSE&message=MACHINE&color=purple?style=plastic&logo=appveyor" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent)
 
 <table><tr><td>
 
@@ -132,3 +131,5 @@
 </td></tr></table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stcost&show_icons=true&locale=en&layout=compact&theme=dark"/>
+<img src="https://profile-counter.glitch.me/{StCost}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
