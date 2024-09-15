@@ -1,5 +1,6 @@
-    Quote I think about
-    Every day
+    Web development is more than code; 
+    it's a canvas where creativity meets functionality, 
+    and every project is a chance to shape the future of how people interact with technology
 
 <table width="100%"><tr><td>
 
