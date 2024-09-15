@@ -1,10 +1,20 @@
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Learning+to+make+them+real+since+2017&quote=Dreaming+about+artificial+worlds+since+first+days+in+front+of+a+computer&theme=radical)
+      Dreaming about artificial worlds since first days in front of a computer.
+      Learning to make them real since 2017
 
-[<img src="https://img.shields.io/static/v1?label=look at my dream-game I'm making&message=COLLAPSE MACHINE&color=purple?style=plastic&logo=appveyor" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=20&theme=ray&rotate=0)](https://moon-svg.minung.dev) 
+[<img src="https://img.shields.io/badge/my dream game I'm making-COLLAPSE MACHINE-purple?style=for-the-badge" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent) 
+
+[<img src="https://img.shields.io/badge/my previous-Web Developer Experience-blue?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
+
+[<img src="https://img.shields.io/badge/my pet projects-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/projects)
+
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=20&theme=ray&rotate=0)](https://moon-svg.minung.dev) 
 
 <table><tr><td>
 
-### Main commercial skills
+<img src="https://img.shields.io/badge/Main commercial skills-blue?style=for-the-badge" />
+
+</br>
+</br>
 
 <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" /></a>
 <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" /></a>
@@ -19,19 +29,22 @@
 
 </td><td valign="top">
 
-### Hobby game dev skills
+<img src="https://img.shields.io/badge/Hobby game dev skills-orange?style=for-the-badge" />
+
+</br>
+</br>
+
 <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" /></a>
 <a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32" /></a>
 
 </td></tr></table>
 
-[Check out my previous Web Developer Experience](https://dreaming-blog.vercel.app/tags/portfolio)
-
-[Or my pet projects I make](https://dreaming-blog.vercel.app/projects)
-
 <table><tr align=""><td>
+  
+<img src="https://img.shields.io/badge/All the stuff I know-?style=for-the-badge" />
 
-#### All the stuff I know
+</br>
+</br>
 
 <a href="https://apple.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="32" height="32" /></a>
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32" /></a>
