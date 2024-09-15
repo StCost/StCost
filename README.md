@@ -1,6 +1,7 @@
 
-      Dreaming about artificial worlds since first days in front of a computer.
-      Learning to make them real since 2017
+      Dreaming and living in artificial worlds since first days in front of a computer in 2008
+      Learning to build them since 2017
+      Higher understanding granted by elders at 2020
 
 
 
