@@ -1,7 +1,6 @@
-      Dreaming about artificial worlds since first days in front of a computer.
-      Learning to make them real since 2017
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?author=Learning+to+make+them+real+since+2017&quote=Dreaming+about+artificial+worlds+since+first+days+in+front+of+a+computer&theme=radical)
 
-- look at my dream-game I'm making: [<img src="https://img.shields.io/static/v1?label=COLLAPSE&message=MACHINE&color=purple?style=plastic&logo=appveyor" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent)
+[<img src="https://img.shields.io/static/v1?label=look at my dream-game I'm making&message=COLLAPSE MACHINE&color=purple?style=plastic&logo=appveyor" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent) [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=20&theme=ray&rotate=0)](https://moon-svg.minung.dev) 
 
 <table><tr><td>
 
@@ -131,5 +130,5 @@
 </td></tr></table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stcost&show_icons=true&locale=en&layout=compact&theme=dark"/>
-<img src="https://profile-counter.glitch.me/{StCost}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+<img src="https://profile-counter.glitch.me/{StCost}/count.svg" alt="StCost :: Visitor's Count" />
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
