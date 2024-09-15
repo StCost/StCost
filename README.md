@@ -1,7 +1,7 @@
 
-      Dreaming and living in artificial worlds since first days in front of a computer in 2008
-      Learning to build them since 2017
-      Higher understanding granted by elders at 2020
+      - Dreaming about fictional worlds since holding a pen
+      == Building My Own Digital Dreams since 2017
+      ≡≡≡ Higher Understanding Granted at 2020
 
 
 
