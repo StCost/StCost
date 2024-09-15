@@ -1,20 +1,10 @@
+
       Dreaming about artificial worlds since first days in front of a computer.
       Learning to make them real since 2017
 
-[<img src="https://img.shields.io/badge/my dream game I'm making-COLLAPSE MACHINE-purple?style=for-the-badge" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent) 
-
-[<img src="https://img.shields.io/badge/my previous-Web Developer Experience-blue?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
-
-[<img src="https://img.shields.io/badge/my pet projects-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/projects)
-
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=20&theme=ray&rotate=0)](https://moon-svg.minung.dev) 
-
 <table><tr><td>
 
-<img src="https://img.shields.io/badge/Main commercial skills-blue?style=for-the-badge" />
-
-</br>
-</br>
+[<img src="https://img.shields.io/badge/Main commercial skills-007acc?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
 
 <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" /></a>
 <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" /></a>
@@ -29,22 +19,23 @@
 
 </td><td valign="top">
 
-<img src="https://img.shields.io/badge/Hobby game dev skills-orange?style=for-the-badge" />
-
-</br>
-</br>
+[<img src="https://img.shields.io/badge/Hobby game dev skills-e87500?style=for-the-badge" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent)
 
 <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" /></a>
 <a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32" /></a>
 
 </td></tr></table>
 
+[<img src="https://img.shields.io/badge/Look at my dream game I'm making-COLLAPSE MACHINE-e87500?style=for-the-badge" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent) 
+
+[<img src="https://img.shields.io/badge/See my-Web Developer Experience-007acc?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
+
+[<img src="https://img.shields.io/badge/Check my pet projects-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/projects)
+
+
 <table><tr align=""><td>
   
-<img src="https://img.shields.io/badge/All the stuff I know-?style=for-the-badge" />
-
-</br>
-</br>
+[<img src="https://img.shields.io/badge/All the stuff I know-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
 
 <a href="https://apple.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="32" height="32" /></a>
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32" /></a>
@@ -143,5 +134,5 @@
 </td></tr></table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stcost&show_icons=true&locale=en&layout=compact&theme=dark"/>
-<img src="https://profile-counter.glitch.me/{StCost}/count.svg" alt="StCost :: Visitor's Count" />
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23151515&qColor=%23e4e2e2&aColor=%23fcb32c&borderColor=%23e4e2e2" alt="README Jokes"></a>
+<img src="https://komarev.com/ghpvc/?username=StCost&label=My+profile+visited+times&style=for-the-badge" alt="StCost :: Visitor's Count" />
