@@ -1,9 +1,9 @@
 
-      - Dreaming about fictional worlds since holding a pen
-      == Building My Own Digital Dreams since 2017
+      - Dreaming about artifical worlds since holding a pen
+      == Building My Own Dreams since 2017
       ≡≡≡ Higher Understanding Granted at 2020
 
-
+<!-- main / hobby skills table -->
 
 <table width="100%"><tr>
 <td>
@@ -30,7 +30,6 @@
 
 </td>
 
-
 <td valign="top" align="right">
 
 [<img src="https://img.shields.io/badge/Look at my dream game I'm making-COLLAPSE MACHINE-e87500?style=for-the-badge" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent)
@@ -45,6 +44,7 @@
 
 </tr></table>
 
+<!-- rest skills table -->
 <table><tr valign="top"><td>
 
 [<img src="https://img.shields.io/badge/All the stuff I know-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
