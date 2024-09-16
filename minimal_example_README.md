@@ -1,4 +1,4 @@
-<!-- Your favorite quite -->
+<!-- Your favorite quote -->
     Web development is more than code; 
     it's a canvas where creativity meets functionality, 
     and every project is a chance to shape the future of how people interact with technology
