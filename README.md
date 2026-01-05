@@ -111,7 +111,8 @@
 <a href="https://mongoosejs.com"><img src="https://cdn.simpleicons.org/mongoose" width="32" height="32" /></a>
 <a href="https://www.jetbrains.com/rider/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-plain.svg" width="32" height="32" /></a>
 <a href="https://yaml.org"><img src="https://cdn.simpleicons.org/yaml" width="32" height="32" /></a>
-<a href="https://fivem.net"><img src="https://cdn.simpleicons.org/fivem" width="32" height="32" /></a>
+<a href="https://mongoosejs.com"><img src="https://cdn.simpleicons.org/mongoose" width="32" height="32" /></a>
+<a href="https://mobx.js.org"><img src="https://cdn.simpleicons.org/mobx" width="32" height="32" /></a>
 <a href="https://auth0.com"><img src="https://cdn.simpleicons.org/auth0" width="32" height="32" /></a>
 <a href="https://www.curseforge.com/"><img src="https://cdn.simpleicons.org/curseforge" width="32" height="32" /></a>
 <a href="https://gitlab.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" /></a>
@@ -143,6 +144,8 @@
 <a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="32" height="32" /></a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="32" h eight="32" /></a>
 <a href="https://unity.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="32" height="32" /></a>
+<a href="https://9gag.com"><img src="https://cdn.simpleicons.org/9gag" width="32" height="32" /></a>
+<a href="https://www.7-zip.org/"><img src="https://cdn.simpleicons.org/7zip" width="32" height="32" /></a>
 <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" /></a>
 <a href="https://vercel.com"><img src="https://cdn.simpleicons.org/vercel" width="32" height="32" /></a>
 <a href="https://steamcommunity.com"><img src="https://cdn.simpleicons.org/steam" width="32" height="32" /></a>
