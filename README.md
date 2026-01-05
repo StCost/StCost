@@ -137,7 +137,7 @@
 <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" /></a>
 <a href="https://https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" width="32" height="32" /></a>
 <a href="https://www.cypress.io/"><img src="https://cdn.simpleicons.org/cypress" width="32" height="32" /></a>
-<a href="https://minecraft.net/"><img src="https://cdn.simpleicons.org/minetest" width="32" height="32" /></a>
+<a href="https://minecraft.net/"><img src="https://cdn.simpleicons.org/luanti" width="32" height="32" /></a>
 <a href="https://create-react-app.dev/"><img src="https://cdn.simpleicons.org/createreactapp" width="32" height="32" /></a>
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32" /></a>
 <a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="32" height="32" /></a>
