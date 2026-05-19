@@ -32,11 +32,9 @@
 
 <td valign="top" align="right">
 
-[<img src="https://img.shields.io/badge/Look at my dream game I'm making-COLLAPSE MACHINE-e87500?style=for-the-badge" />](https://steamcommunity.com/app/2980830/screenshots/?browsefilter=mostrecent)
+[<img src="https://img.shields.io/badge/Look at my dream game I'm making-COLLAPSE MACHINE-e87500?style=for-the-badge" />](https://steamcommunity.com/app/2980830)
 
-[<img src="https://img.shields.io/badge/See my-Web Developer Experience-007acc?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
-
-[<img src="https://img.shields.io/badge/Check my pet projects-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/projects)
+[<img src="https://img.shields.io/badge/See my-Web Blog-007acc?style=for-the-badge" />](https://dreamingsaints.github.io/blog/)
 
 [<img src="https://komarev.com/ghpvc/?username=StCost&label=My+Profile+Views&style=for-the-badge" alt="StCost :: Visitor's Count" />]()
 
