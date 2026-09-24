@@ -8,7 +8,7 @@
 <table width="100%"><tr>
 <td>
 
-[<img src="https://img.shields.io/badge/Main commercial skills-007acc?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
+[<img src="https://img.shields.io/badge/Main commercial skills-007acc?style=for-the-badge" />](https://dreamingsaints.github.io/blog/125-portfolio-hired-web-work-and-the-games-we-make-for-ourselves)
 
 <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" /></a>
 <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" /></a>
@@ -40,12 +40,24 @@
 
 </td>
 
+</tr>
+<tr>
+<td colspan="3">
+
+[<img src="https://img.shields.io/badge/Games I'm making-e87500?style=for-the-badge" />](https://dreamingsaints.github.io/blog/125-portfolio-hired-web-work-and-the-games-we-make-for-ourselves)
+
+<a href="https://store.steampowered.com/app/2980830/COLLAPSE_MACHINE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2980830/header.jpg" alt="COLLAPSE MACHINE" height="87" /></a>
+<a href="https://store.steampowered.com/app/4967660/BallAqua/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967660/b2762559bd37c68c7df2cc04f47b19fb3be7d7ef/header.jpg" alt="Ball-Aqua" height="87" /></a>
+<a href="https://store.steampowered.com/app/3600250/Whomers_Ate_My_Lawn/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3600250/69ff0311912878d48a0a7cb7523639b51370982b/header.jpg" alt="Whomers Ate My Lawn!" height="87" /></a>
+<a href="https://store.steampowered.com/app/1775350/RISING_BONEvR/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1775350/header.jpg" alt="RISING BONEvR" height="87" /></a>
+
+</td>
 </tr></table>
 
 <!-- rest skills table -->
 <table><tr valign="top"><td>
 
-[<img src="https://img.shields.io/badge/All the stuff I know-grey?style=for-the-badge" />](https://dreaming-blog.vercel.app/tags/portfolio)
+[<img src="https://img.shields.io/badge/All the stuff I know-grey?style=for-the-badge" />](https://dreamingsaints.github.io/blog/125-portfolio-hired-web-work-and-the-games-we-make-for-ourselves)
 
 <a href="https://cplusplus.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="32" height="32" /></a>
 <a href="https://trello.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="32" height="32" /></a>
