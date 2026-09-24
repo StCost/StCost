@@ -99,7 +99,7 @@
 <a href="https://discord.com"><img src="https://cdn.simpleicons.org/discord" width="32" height="32" /></a>
 <a href="https://eslint.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="32" height="32" /></a>
 <a href="https://heroku.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="32" height="32" /></a>
-<a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai" width="32" height="32" /></a>
+<a href="https://openai.com/"><img src="https://github.com/openai.png?size=64" alt="OpenAI" width="32" height="32" /></a>
 <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="32" height="32" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="32" height="32" /></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="32" height="32" /></a>
