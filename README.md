@@ -76,6 +76,7 @@
 <a href="https://store.steampowered.com/app/620980/Beat_Saber/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/620980/library_600x900.jpg" height="32" alt="Beat Saber" /></a>
 <a href="https://store.steampowered.com/app/4000/Garrys_Mod/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4000/library_600x900.jpg" height="32" alt="Garry's Mod" /></a>
 <a href="https://store.steampowered.com/app/394510/HELLDIVERS/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/394510/library_600x900.jpg" height="32" alt="HELLDIVERS" /></a>
+<br>
 <a href="https://chrome.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" width="32" height="32" /></a>
 <a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32" /></a>
 <a href="https://playwright.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="32" height="32" alt="Playwright" /></a>
