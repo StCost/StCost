@@ -59,30 +59,35 @@
 
 [<img src="https://img.shields.io/badge/All the stuff I know-grey?style=for-the-badge" />](https://dreamingsaints.github.io/blog/125-portfolio-hired-web-work-and-the-games-we-make-for-ourselves)
 
-<a href="https://chrome.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" width="32" height="32" /></a>
-<a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32" /></a>
-<a href="https://playwright.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="32" height="32" alt="Playwright" /></a>
-<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" /></a>
 <a href="https://store.steampowered.com/app/22380/Fallout_New_Vegas/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/22380/library_600x900.jpg" height="32" alt="Fallout: New Vegas" /></a>
 <a href="https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/271590/library_600x900.jpg" height="32" alt="Grand Theft Auto V" /></a>
 <a href="https://store.steampowered.com/app/440/Team_Fortress_2/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/440/library_600x900.jpg" height="32" alt="Team Fortress 2" /></a>
-<a href="https://www.w3.org/TR/html52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" /></a>
-<a href="https://gitlab.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" /></a>
-<a href="https://mochajs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="32" height="32" /></a>
 <a href="https://store.steampowered.com/app/892970/Valheim/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/892970/library_600x900.jpg" height="32" alt="Valheim" /></a>
 <a href="https://store.steampowered.com/app/286160/Tabletop_Simulator/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/286160/library_600x900.jpg" height="32" alt="Tabletop Simulator" /></a>
 <a href="https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/227300/library_600x900.jpg" height="32" alt="Euro Truck Simulator 2" /></a>
 <a href="https://store.steampowered.com/app/730/CounterStrike_2/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/730/library_600x900.jpg" height="32" alt="Counter-Strike 2" /></a>
 <a href="https://store.steampowered.com/app/1151340/Fallout_76/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/library_600x900.jpg" height="32" alt="Fallout 76" /></a>
-<a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32" /></a>
-<a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" height="32" /></a>
-<a href="https://sketch.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-plain.svg" width="32" height="32" /></a>
 <a href="https://store.steampowered.com/app/823500/BONEWORKS/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/823500/library_600x900.jpg" height="32" alt="BONEWORKS" /></a>
 <a href="https://store.steampowered.com/app/218620/PAYDAY_2/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/218620/library_600x900.jpg" height="32" alt="PAYDAY 2" /></a>
 <a href="https://store.steampowered.com/app/223470/POSTAL_2/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/223470/library_600x900.jpg" height="32" alt="POSTAL 2" /></a>
+<a href="https://store.steampowered.com/app/230410/Warframe/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/230410/library_600x900.jpg" height="32" alt="Warframe" /></a>
+<a href="https://store.steampowered.com/app/548430/Deep_Rock_Galactic/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/548430/library_600x900.jpg" height="32" alt="Deep Rock Galactic" /></a>
+<a href="https://store.steampowered.com/app/105600/Terraria/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900.jpg" height="32" alt="Terraria" /></a>
+<a href="https://store.steampowered.com/app/620980/Beat_Saber/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/620980/library_600x900.jpg" height="32" alt="Beat Saber" /></a>
+<a href="https://store.steampowered.com/app/4000/Garrys_Mod/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4000/library_600x900.jpg" height="32" alt="Garry's Mod" /></a>
+<a href="https://store.steampowered.com/app/394510/HELLDIVERS/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/394510/library_600x900.jpg" height="32" alt="HELLDIVERS" /></a>
+<a href="https://chrome.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-plain.svg" width="32" height="32" /></a>
+<a href="https://npmjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="32" height="32" /></a>
+<a href="https://playwright.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="32" height="32" alt="Playwright" /></a>
+<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" /></a>
+<a href="https://www.w3.org/TR/html52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" /></a>
+<a href="https://gitlab.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="32" height="32" /></a>
+<a href="https://mochajs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" width="32" height="32" /></a>
+<a href="https://blender.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="32" height="32" /></a>
+<a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32" height="32" /></a>
+<a href="https://sketch.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-plain.svg" width="32" height="32" /></a>
 <a href="https://babeljs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" width="32" height="32" /></a>
 <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" /></a>
-<a href="https://store.steampowered.com/app/230410/Warframe/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/230410/library_600x900.jpg" height="32" alt="Warframe" /></a>
 <a href="https://swagger.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="32" height="32" /></a>
 <a href="https://www.npmjs.com/package/nodemon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" width="32" height="32" /></a>
 <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" /></a>
@@ -91,8 +96,6 @@
 <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" width="32" height="32" /></a>
 <a href="https://arduino.cc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32" /></a>
 <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="32" height="32" /></a>
-<a href="https://store.steampowered.com/app/548430/Deep_Rock_Galactic/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/548430/library_600x900.jpg" height="32" alt="Deep Rock Galactic" /></a>
-<a href="https://store.steampowered.com/app/105600/Terraria/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/105600/library_600x900.jpg" height="32" alt="Terraria" /></a>
 <a href="https://electronjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="32" height="32" /></a>
 <a href="https://react-bootstrap.netlify.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="32" height="32" /></a>
 <a href="https://www.browserstack.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original.svg" width="32" height="32" /></a>
@@ -112,8 +115,6 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="32" height="32" /></a>
 <a href="https://www.microsoft.com/windows"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="32" height="32" /></a>
 <a href="https://cplusplus.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="32" height="32" /></a>
-<a href="https://store.steampowered.com/app/620980/Beat_Saber/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/620980/library_600x900.jpg" height="32" alt="Beat Saber" /></a>
-<a href="https://store.steampowered.com/app/4000/Garrys_Mod/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/4000/library_600x900.jpg" height="32" alt="Garry's Mod" /></a>
 <a href="https://www.sourcetreeapp.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" width="32" height="32" /></a>
 <a href="https://r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="32" height="32" /></a>
 <a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="32" height="32" /></a>
@@ -133,7 +134,6 @@
 <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="32" height="32" /></a>
 <a href="https://visualstudio.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="32" height="32" /></a>
 <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="32" height="32" /></a>
-<a href="https://store.steampowered.com/app/394510/HELLDIVERS/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/394510/library_600x900.jpg" height="32" alt="HELLDIVERS" /></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="32" height="32" /></a>
 <a href="https://graphql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="32" height="32" /></a>
 <a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32" height="32" /></a>
