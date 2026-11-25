@@ -47,7 +47,7 @@
 [<img src="https://img.shields.io/badge/Games I'm making-e87500?style=for-the-badge" />](https://dreamingsaints.github.io/blog/125-portfolio-hired-web-work-and-the-games-we-make-for-ourselves)
 
 <a href="https://store.steampowered.com/app/5448880/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5448880/fe7ce311cf2572259a48cbb51865985c308338ea/header.jpg" alt="COLLAPSE MACHINE 2D" height="87" /></a>
-<a href="https://github.com/StCost/nfs-most-wanted-together"><img src="https://raw.githubusercontent.com/StCost/nfs-most-wanted-together/main/docs/banner.png" alt="NFS Most Wanted Together - 2-player co-op mod for NFS Most Wanted (2005)" height="87" /></a>
+<a href="https://github.com/StCost/nfs-most-wanted-together"><img src="https://raw.githubusercontent.com/StCost/nfs-most-wanted-together/main/docs/mwt-logo.png" alt="NFS Most Wanted Together - 2-player co-op mod for NFS Most Wanted (2005)" height="87" /></a>
 <a href="https://store.steampowered.com/app/2980830/COLLAPSE_MACHINE/"><img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2980830/header.jpg" alt="COLLAPSE MACHINE" height="87" /></a>
 <a href="https://store.steampowered.com/app/4967660/BallAqua/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967660/b2762559bd37c68c7df2cc04f47b19fb3be7d7ef/header.jpg" alt="Ball-Aqua" height="87" /></a>
 <a href="https://store.steampowered.com/app/3600250/Whomers_Ate_My_Lawn/"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3600250/69ff0311912878d48a0a7cb7523639b51370982b/header.jpg" alt="Whomers Ate My Lawn!" height="87" /></a>
